@@ -16,8 +16,6 @@ section{
 }
 .half-width img{
     width: 80%;
-}
-.img-right{
     float: right;
 }
 h1{
