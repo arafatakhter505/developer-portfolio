@@ -16,7 +16,12 @@ section{
 }
 .half-width img{
     width: 80%;
+}
+.img-right img{
     float: right;
+}
+.img-left img{
+    float: left;
 }
 h1{
     font-size: 50px;
